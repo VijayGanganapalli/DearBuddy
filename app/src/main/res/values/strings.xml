@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DearBuddy</string>
+
+    <!--Belongs to register activity-->
+    <string name="username_register">Username</string>
+    <string name="email_register">Email</string>
+    <string name="password_register">Password</string>
+    <string name="register_register">Register</string>
+    <string name="already_have_a_account_register">Already have a account?</string>
+
+    <!--Belongs to login activity-->
+    <string name="email_login">Email</string>
+    <string name="password_login">Password</string>
+    <string name="login_login">Login</string>
+
+</resources>
